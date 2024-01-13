@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="228.66"
+   height="39.080002"
+   viewBox="0 0 60.499624 10.339917"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="navbar-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#d3d3d3"
+     bordercolor="#2f2f2f"
+     borderopacity="0.24705882"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="116.40745"
+     inkscape:cy="15.998291"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient11"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#f6f600;stop-opacity:1;"
+         offset="0"
+         id="stop11" />
+      <stop
+         style="stop-color:#fec400;stop-opacity:1;"
+         offset="1"
+         id="stop12" />
+    </linearGradient>
+    <rect
+       x="309.80081"
+       y="1817.498"
+       width="14457.372"
+       height="1755.538"
+       id="rect11" />
+    <inkscape:path-effect
+       effect="interpolate_points"
+       id="path-effect8"
+       is_visible="true"
+       lpeversion="1"
+       interpolator_type="CentripetalCatmullRom" />
+    <inkscape:path-effect
+       effect="taper_stroke"
+       start_shape="center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center"
+       end_shape="center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center | center"
+       id="path-effect6"
+       is_visible="true"
+       lpeversion="1"
+       stroke_width="0.26458299"
+       subpath="1"
+       attach_start="0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2"
+       end_offset="0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2 | 0.2"
+       start_smoothing="0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5"
+       end_smoothing="0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5"
+       jointype="extrapolated"
+       miter_limit="100" />
+    <inkscape:path-effect
+       effect="clone_original"
+       linkeditem=""
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1"
+       method="d"
+       attributes=""
+       css_properties=""
+       allow_transforms="true" />
+    <inkscape:path-effect
+       effect="clone_original"
+       linkeditem=""
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1"
+       method="d"
+       attributes=""
+       css_properties=""
+       allow_transforms="true" />
+    <rect
+       x="128.51653"
+       y="94.926979"
+       width="1672.1752"
+       height="886.47192"
+       id="rect3" />
+    <rect
+       x="486.31821"
+       y="254.11221"
+       width="1063.1823"
+       height="400.15372"
+       id="rect2" />
+    <rect
+       x="403.07455"
+       y="274.55804"
+       width="1248.6549"
+       height="429.36203"
+       id="rect1" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="bsplinespiro"
+       autoreverse="false"
+       close="false"
+       join="false"
+       linkedpaths="#text3,0,1"
+       id="path-effect7"
+       is_visible="true"
+       lpeversion="0" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11"
+       id="linearGradient12"
+       x1="852.15576"
+       y1="4252.6494"
+       x2="14050.293"
+       y2="1058.1312"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.00422292,0,0,0.00458667,-1.1618912,-6.8085005)"
+       id="text11"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1333.33px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold Italic';white-space:pre;shape-inside:url(#rect11);display:inline;fill:url(#linearGradient12);fill-opacity:1;stroke:none"><tspan
+         x="309.80078"
+         y="3020.4554"
+         id="tspan4"><tspan
+           dx="0 0 0 0 0.00012207031 0 0 0 -0.00018310547 0.00021362305 0 -0.00036621094 0.00024414062 0.00018310547 0 0.00012207031 0 0.00012207031 0.00018310547"
+           id="tspan3">Sistemas Operativos</tspan></tspan></text>
+  </g>
+</svg>
